@@ -1,3 +1,4 @@
+#Registro de velocidade do motor
 valores = [] #lista vazia
         
 def media(valores): #calculando a média
